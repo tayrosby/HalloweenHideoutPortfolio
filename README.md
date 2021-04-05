@@ -17,6 +17,8 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 * Resize the screen depending on the device. Supports iPhones 6 - 12
 
 ## Technologies
+The following tools, languages, frameworks, and libraries were learned for this project. These technologies were chosen because they are all available in the Swift language and the XCode IDE. The SpriteKit and the GameplayKit is also optimized for mobile game development on iOS.
+
 ### Tools
 * XCode v 12.1
 ### Languages
@@ -32,3 +34,17 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 * GameplayKit v 5.3
 
 ## Technical Approach
+The CoreAnimation library will be used to animate the player, enemies, and other parts of the application that will need to be animated. The CoreAudio and CoreAudioKit libraries will be used to add background music, sound effects, and allow the user to change the volume of the audio. SwiftUI will be used to create the storyboards. UserDefaults will be used to manage the save data. The GameplayKit and SpriteKit will be used to manage the sprites and game logic. OSLog will be used to log application events for debugging. These libraries and frameworks were chosen to make the development process easier and utilize the tools given within the language.
+
+
+
+The following flowchart showcases the overall flow of the application.
+<img src="/diagrams/Hideout Flowchart.png" alt="flowchart" width="1000" height="1000" />
+
+The following sequence diagram showcases the process of buying a costume from the store
+<img src="/diagrams/Hideout Sequence Diagram.png" alt="sequence diagram" width="1000" height="1000" />
+## Risks and Challenges
+
+The risks that I had during the application came from not knowing the Swift language, I had not done game development before, and I had not done mobile development before. To overcome these risks, I spent a lot of time going tutorials, especially on YouTube, to learn the Swift language and gameplay design. I also talked to an Indie game developer at the beginning of my project planning to gain insight on game theory, game design, where to get assets from, and tips on how to complete the application. I started working on the tutorials as often as I could to make sure I could avoid my risks turning into issues.
+
+# There are no outstanding issues. There are some minor bugs but they do not impact the functionality of the application.
