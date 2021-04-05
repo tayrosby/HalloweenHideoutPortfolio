@@ -1,4 +1,4 @@
-# HalloweenHideoutPortfolio
+# Halloween Hideout Portfolio
 
 Halloween Hideout is a 2D iOS platformer centered around surviving Halloween night, from the hours of 7 pm to 7 am. The game will consist of levels that will take place at different times in the game and get progressively harder. Throughout the player’s journey they will collect candy pieces with value ranging from one (1) to fifteen (15). These candy pieces will be used in the in-game store to buy costumes that will randomly appear throughout the levels.  The player will be able to run, jump, and attack to clear the levels and complete the game.
 
@@ -19,6 +19,8 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 ## Technologies
 The following tools, languages, frameworks, and libraries were learned for this project. These technologies were chosen because they are all available in the Swift language and the XCode IDE. The SpriteKit and the GameplayKit is also optimized for mobile game development on iOS.
 
+The application is not currently on the AppStore. In the event the application will get deployed to the AppStore the OSLog library will be implemented into the application to assist with debugging if need be.
+
 ### Tools
 * XCode v 12.1
 ### Languages
@@ -36,15 +38,13 @@ The following tools, languages, frameworks, and libraries were learned for this 
 ## Technical Approach
 The CoreAnimation library will be used to animate the player, enemies, and other parts of the application that will need to be animated. The CoreAudio and CoreAudioKit libraries will be used to add background music, sound effects, and allow the user to change the volume of the audio. SwiftUI will be used to create the storyboards. UserDefaults will be used to manage the save data. The GameplayKit and SpriteKit will be used to manage the sprites and game logic. OSLog will be used to log application events for debugging. These libraries and frameworks were chosen to make the development process easier and utilize the tools given within the language.
 
-
-
 The following flowchart showcases the overall flow of the application.
 <img src="/diagrams/Hideout Flowchart.png" alt="flowchart" width="1000" height="1000" />
 
 The following sequence diagram showcases the process of buying a costume from the store
-<img src="/diagrams/Hideout Sequence Diagram.png" alt="sequence diagram" width="1000" height="1000" />
+<img src="/diagrams/Hideout Sequence Diagram.png" alt="sequence diagram" width="750" height="750" />
 ## Risks and Challenges
 
 The risks that I had during the application came from not knowing the Swift language, I had not done game development before, and I had not done mobile development before. To overcome these risks, I spent a lot of time going tutorials, especially on YouTube, to learn the Swift language and gameplay design. I also talked to an Indie game developer at the beginning of my project planning to gain insight on game theory, game design, where to get assets from, and tips on how to complete the application. I started working on the tutorials as often as I could to make sure I could avoid my risks turning into issues.
 
-# There are no outstanding issues. There are some minor bugs but they do not impact the functionality of the application.
+###### There are no outstanding issues. There are some minor bugs but they do not impact the functionality of the application.
