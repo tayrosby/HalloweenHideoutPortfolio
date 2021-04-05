@@ -7,7 +7,7 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 
 ##Functional and Non-Functional Requirements
 #Functional Requirements
-⋅⋅* User can collect candy
+⋅⋅*User can collect candy
 ⋅⋅* Candy can be used to purchase costumes in the shop
 ⋅⋅* Costumes appear in levels after purchase
 ⋅⋅* Candy has a value of 5, 10, and 15 respectively
