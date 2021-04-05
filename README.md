@@ -7,28 +7,28 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 
 ##Functional and Non-Functional Requirements
 #Functional Requirements
-⋅⋅*User can collect candy
-⋅⋅* Candy can be used to purchase costumes in the shop
-⋅⋅* Costumes appear in levels after purchase
-⋅⋅* Candy has a value of 5, 10, and 15 respectively
-⋅⋅* Enemies will be randomly placed throughout the level
-⋅⋅* Player can pick between 3 characters to play as
+* User can collect candy
+* Candy can be used to purchase costumes in the shop
+* Costumes appear in levels after purchase
+* Candy has a value of 5, 10, and 15 respectively
+* Enemies will be randomly placed throughout the level
+* Player can pick between 3 characters to play as
 #Non-Functional Requirements
-⋅⋅* Resize the screen depending on the device. Supports iPhones 6 - 12
+* Resize the screen depending on the device. Supports iPhones 6 - 12
 
 ##Technologies
 #Tools
-⋅⋅* XCode v 12.1
+* XCode v 12.1
 #Languages
-⋅⋅* Swift v 5.3
+* Swift v 5.3
 #Frameworks
-⋅⋅* SwiftUI v 5.3
+* SwiftUI v 5.3
 #Libraries
-⋅⋅* SpriteKit v 5.3
-⋅⋅* CoreAudio v 5.3
-⋅⋅* CoreAudioKit v 5.3
-⋅⋅* CoreAnimation v 5.3
-⋅⋅* NSUserDefaults v 5.3
-⋅⋅* GameplayKit v 5.3
+* SpriteKit v 5.3
+* CoreAudio v 5.3
+* CoreAudioKit v 5.3
+* CoreAnimation v 5.3
+* NSUserDefaults v 5.3
+* GameplayKit v 5.3
 
 ##Technical Approach
