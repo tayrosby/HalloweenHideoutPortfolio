@@ -5,8 +5,8 @@ Halloween Hideout is a 2D iOS platformer centered around surviving Halloween nig
 The purpose of this application is to develop a 2D iOS platformer that will allow a player to go through multiple levels varying in difficulty in order to survive the night. The goal is to develop a game that is easy to use, distracts some users from stressful events in their lives, and provides mindless entertainment to others.
 Halloween Hideout is a passion project for the developer who wanted to find to mix love of video games with wanting to create an application that will help others. This can be as simple as taking someone’s mind off a bad day for a few hours. Halloween Hideout aims to be the game people play when they need a break. 
 
-##Functional and Non-Functional Requirements
-#Functional Requirements
+## Functional and Non-Functional Requirements
+# Functional Requirements
 * User can collect candy
 * Candy can be used to purchase costumes in the shop
 * Costumes appear in levels after purchase
@@ -16,14 +16,14 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 #Non-Functional Requirements
 * Resize the screen depending on the device. Supports iPhones 6 - 12
 
-##Technologies
-#Tools
+## Technologies
+# Tools
 * XCode v 12.1
-#Languages
+# Languages
 * Swift v 5.3
-#Frameworks
+# Frameworks
 * SwiftUI v 5.3
-#Libraries
+# Libraries
 * SpriteKit v 5.3
 * CoreAudio v 5.3
 * CoreAudioKit v 5.3
@@ -31,4 +31,4 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 * NSUserDefaults v 5.3
 * GameplayKit v 5.3
 
-##Technical Approach
+## Technical Approach
