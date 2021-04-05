@@ -43,6 +43,20 @@ The following flowchart showcases the overall flow of the application.
 
 The following sequence diagram showcases the process of buying a costume from the store
 <img src="/diagrams/Hideout Sequence Diagram.png" alt="sequence diagram" width="750" height="750" />
+
+The following images are pictures from the application.
+### Main Menu
+<img src="/application-photos/main-menu.PNG" alt="main-menu" width="1000" height="750" />
+
+### Settings
+<img src="/application-photos/settings.PNG" alt="settings" width="1000" height="750" />
+
+### Costume Shop
+<img src="/application-photos/costume-shop.PNG" alt="costume-shop" width="1000" height="750" />
+
+### Game Over
+<img src="/application-photos/game-over.PNG" alt="game-over" width="1000" height="750" />
+
 ## Risks and Challenges
 
 The risks that I had during the application came from not knowing the Swift language, I had not done game development before, and I had not done mobile development before. To overcome these risks, I spent a lot of time going tutorials, especially on YouTube, to learn the Swift language and gameplay design. I also talked to an Indie game developer at the beginning of my project planning to gain insight on game theory, game design, where to get assets from, and tips on how to complete the application. I started working on the tutorials as often as I could to make sure I could avoid my risks turning into issues.
