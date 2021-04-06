@@ -3,7 +3,9 @@
 Halloween Hideout is a 2D iOS platformer centered around surviving Halloween night, from the hours of 7 pm to 7 am. The game will consist of levels that will take place at different times in the game and get progressively harder. Throughout the player’s journey they will collect candy pieces with value ranging from one (1) to fifteen (15). These candy pieces will be used in the in-game store to buy costumes that will randomly appear throughout the levels.  The player will be able to run, jump, and attack to clear the levels and complete the game.
 
 The purpose of this application is to develop a 2D iOS platformer that will allow a player to go through multiple levels varying in difficulty in order to survive the night. The goal is to develop a game that is easy to use, distracts some users from stressful events in their lives, and provides mindless entertainment to others.
-Halloween Hideout is a passion project for the developer who wanted to find to mix love of video games with wanting to create an application that will help others. This can be as simple as taking someone’s mind off a bad day for a few hours. Halloween Hideout aims to be the game people play when they need a break. 
+Halloween Hideout is a passion project for the developer who wanted to find to mix love of video games with wanting to create an application that will help others. This can be as simple as taking someone’s mind off a bad day for a few hours. Halloween Hideout aims to be the game people play when they need a break.
+
+[Project Proposal](../documents/Project Prosal.docx)
 
 ## Functional and Non-Functional Requirements
 ### Functional Requirements
@@ -15,6 +17,10 @@ Halloween Hideout is a passion project for the developer who wanted to find to m
 * Player can pick between 3 characters to play as
 ### Non-Functional Requirements
 * Resize the screen depending on the device. Supports iPhones 6 - 12
+
+[Project Requirments](../documents/project-requirements.docx)
+
+[Functional Requirements](../documents/functional-requirements.xls)
 
 ## Technologies
 The following tools, languages, frameworks, and libraries were learned for this project. These technologies were chosen because they are all available in the Swift language and the XCode IDE. The SpriteKit and the GameplayKit is also optimized for mobile game development on iOS.
@@ -37,6 +43,8 @@ The application is not currently on the AppStore. In the event the application w
 
 ## Technical Approach
 The CoreAnimation library will be used to animate the player, enemies, and other parts of the application that will need to be animated. The CoreAudio and CoreAudioKit libraries will be used to add background music, sound effects, and allow the user to change the volume of the audio. SwiftUI will be used to create the storyboards. UserDefaults will be used to manage the save data. The GameplayKit and SpriteKit will be used to manage the sprites and game logic. OSLog will be used to log application events for debugging. These libraries and frameworks were chosen to make the development process easier and utilize the tools given within the language.
+
+[Project Design](../documents/project-design.docx)
 
 The following flowchart showcases the overall flow of the application.
 <img src="/diagrams/Hideout Flowchart.png" alt="flowchart" width="1000" height="1000" />
