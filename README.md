@@ -5,7 +5,7 @@ Halloween Hideout is a 2D iOS platformer centered around surviving Halloween nig
 The purpose of this application is to develop a 2D iOS platformer that will allow a player to go through multiple levels varying in difficulty in order to survive the night. The goal is to develop a game that is easy to use, distracts some users from stressful events in their lives, and provides mindless entertainment to others.
 Halloween Hideout is a passion project for the developer who wanted to find to mix love of video games with wanting to create an application that will help others. This can be as simple as taking someone’s mind off a bad day for a few hours. Halloween Hideout aims to be the game people play when they need a break.
 
-[Project Proposal](documents/Project Proposal.docx)
+[Project Proposal](documents/Project-Proposal.docx)
 
 ## Functional and Non-Functional Requirements
 ### Functional Requirements
